@@ -3253,11 +3253,11 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #5e42a6;
+			background-color: #3781a3;
 		}
 
 		.wrapper.style1-alt {
-			background-color: #493382;
+			background-color: #28576d;
 		}
 
 		.wrapper.style2 {
@@ -3432,7 +3432,7 @@
 						}
 
 						#header > nav > ul > li a.active {
-							color: #ffffff;
+							color: #ea0707;
 						}
 
 		@media screen and (max-width: 736px) {

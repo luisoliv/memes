@@ -4,7 +4,7 @@ function loginTwitter()
 	var user = document.getElementById("username").value;
 	var pass = document.getElementById("pass").value;
 
-	console.log("user: "+user+"\npass: "+pass);
+	console.log("user: ",user,"\npass: ",pass);
 
 	var isUsername;
 
